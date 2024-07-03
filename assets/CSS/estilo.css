@@ -35,10 +35,46 @@ body{
     display: flex;
     justify-content:space-around;
 }
-
+.principal2 {
+    height: 100vh;
+    background-color: #d8d8d8;
+    padding-top: 200px;
+    padding-left: 650px;
+    display: flex;
+    flex-direction: column;
+}
+.principal3 {
+    grid-area: principal;
+    height: 90vh;
+    background-color: #d8d8d8;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 200px;
+}
+.principal4 {
+    grid-area: principal;
+    height: 100%;
+    background-color: #d8d8d8;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    
+    align-items: center;
+}
 .foto{
     grid-area: foto;
     height: 70vh;
+}
+.foto1 {
+    grid-area: foto;
+    width: 800px;
+    height: 500px;
+}
+.foto2 {
+    grid-area: foto;
+    width: 350px;
+    height: 250px;
 }
 .lado_esquerdo{
     grid-area: lado_esquerdo;
@@ -69,4 +105,15 @@ body{
 .menus >h3:hover{
     background-color: #585858;
    
+}
+
+.cabecalho > h1 > a {
+    cursor: pointer;
+    display: flex;
+    text-decoration: none;
+    color: white;
+    padding: 41px;
+}
+.cabecalho > h1:hover {
+    background-color: #585858;
 }
