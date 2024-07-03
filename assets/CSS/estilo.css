@@ -76,6 +76,11 @@ body{
     width: 350px;
     height: 250px;
 }
+.foto3 {
+    grid-area: foto;
+    width: 500px;
+    height: 300px;
+}
 .lado_esquerdo{
     grid-area: lado_esquerdo;
     display: flex;

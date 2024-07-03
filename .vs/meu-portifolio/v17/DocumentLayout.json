@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\samurai elemental.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:samurai elemental.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\assets\\CSS\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\CSS\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\guerra de insetos tw.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:guerra de insetos tw.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:about.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,28 +34,109 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "estilo.css",
+              "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\assets\\CSS\\estilo.css",
+              "RelativeDocumentMoniker": "assets\\CSS\\estilo.css",
+              "ToolTip": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\assets\\CSS\\estilo.css",
+              "RelativeToolTip": "assets\\CSS\\estilo.css",
+              "ViewState": "AQIAADwAAAAAAAAAAAAAAFEAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-07-03T17:24:24.756Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "samurai elemental.html",
-              "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\samurai elemental.html",
-              "RelativeDocumentMoniker": "samurai elemental.html",
-              "ToolTip": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\samurai elemental.html",
-              "RelativeToolTip": "samurai elemental.html",
+              "DocumentIndex": 3,
+              "Title": "about.html",
+              "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\about.html",
+              "RelativeDocumentMoniker": "about.html",
+              "ToolTip": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\about.html",
+              "RelativeToolTip": "about.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-03T16:33:21.52Z",
+              "WhenOpened": "2024-07-03T16:36:55.242Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "contact.html",
+              "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\contact.html",
+              "RelativeDocumentMoniker": "contact.html",
+              "ToolTip": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\contact.html",
+              "RelativeToolTip": "contact.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-03T16:36:54.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\index.html",
+              "RelativeDocumentMoniker": "index.html",
+              "ToolTip": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\index.html",
+              "RelativeToolTip": "index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-03T16:36:53.449Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "guerra de insetos tw.html",
+              "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\guerra de insetos tw.html",
+              "RelativeDocumentMoniker": "guerra de insetos tw.html",
+              "ToolTip": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\guerra de insetos tw.html",
+              "RelativeToolTip": "guerra de insetos tw.html",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-03T17:14:38.244Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "projects.html",
+              "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\projects.html",
+              "RelativeDocumentMoniker": "projects.html",
+              "ToolTip": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\projects.html",
+              "RelativeToolTip": "projects.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-07-03T16:36:51.18Z",
+              "EditorCaption": ""
             }
           ]
         }
