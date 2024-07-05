@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\namoro escolar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:namoro escolar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:projects.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\assets\\CSS\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\CSS\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\restaurante.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:restaurante.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\namoro escolar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:namoro escolar.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\assets\\CSS\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\CSS\\estilo.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\cagab\\source\\repos\\meu-portifolio\\contact.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -38,7 +38,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "namoro escolar.html",
               "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\namoro escolar.html",
               "RelativeDocumentMoniker": "namoro escolar.html",
@@ -70,12 +70,11 @@
               "RelativeToolTip": "namoro escolar.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-04T17:06:00.211Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T17:06:00.211Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "restaurante.html",
               "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\restaurante.html",
               "RelativeDocumentMoniker": "restaurante.html",
@@ -83,12 +82,11 @@
               "RelativeToolTip": "restaurante.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-04T16:51:41.036Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-04T16:51:41.036Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "estilo.css",
               "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\assets\\CSS\\estilo.css",
               "RelativeDocumentMoniker": "assets\\CSS\\estilo.css",
@@ -96,8 +94,7 @@
               "RelativeToolTip": "assets\\CSS\\estilo.css",
               "ViewState": "AQIAAEIAAAAAAAAAAAAAAFUAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-07-03T17:24:24.756Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T17:24:24.756Z"
             },
             {
               "$type": "Document",
@@ -121,8 +118,7 @@
               "RelativeToolTip": "contact.html",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAB8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-07-03T16:36:54.202Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T16:36:54.202Z"
             },
             {
               "$type": "Document",
@@ -138,13 +134,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "projects.html",
               "DocumentMoniker": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\projects.html",
               "RelativeDocumentMoniker": "projects.html",
               "ToolTip": "C:\\Users\\cagab\\source\\repos\\meu-portifolio\\projects.html",
               "RelativeToolTip": "projects.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACMAAAAjAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
               "WhenOpened": "2024-07-03T16:36:51.18Z",
               "EditorCaption": ""
